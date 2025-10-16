@@ -28,6 +28,8 @@ using pll = pair<ll, ll>;
 
 int main()
 {
+/* Now I am using linux and c*/
+
     ios::sync_with_stdio(false);
     cin.tie(0);
     //	freopen("input.txt", "r", stdin);
